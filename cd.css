@@ -1,0 +1,95 @@
+body {
+    text-align: center;
+    background-color: #803535;
+    color: white;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+q {
+    display: block;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #5c2626;
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+  }
+
+.botnav {
+    background-color: #5c2626;
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    bottom: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #d8c690;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #cbb26a;
+    color: white;
+  }
+
+  .full{
+    background-color: #803535;
+  }
+
+  .full img{
+    align-items: center;
+    width:600px;
+    height:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .topnav img {
+    float: right;
+    width:90px;
+    height:59px;
+  }
+
+  .botnav img {
+    float: right;
+    width:90px;
+    height:59px;
+  } 
+
+  .botnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  /* Change the color of links on hover */
+  .botnav a:hover {
+    background-color: #d8c690;
+    color: black;
+  }
+  
