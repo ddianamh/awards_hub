@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <title>Register</title>
+   <style>
+      body {
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         height: 100vh;
+         margin: 0;
+      }
+   </style>
+   <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+   <div class="topnav" style="background-color: #5c2626; height: 10.6%; top: 0; left: 0;">
+      <a href="imprintpage.html" style="padding-left: 200px;">Register Page</a>
+      </div>
+  </div>
+  <ul style="left: 0; top: 0;">
+      <li><img src="img/Logo.png"></li>
+      <li><a class="active" href="index.html">Home</a></li>
+      <li><a href="awards.html">Awards</a></li>
+      <li><a href="music.html">Music</a></li>
+      <li><a href="artists.html">Artists</a></li>
+    <li><a href="login.php">Maintanance Page</a></li>
+  </ul>
+   <div>
+      <center>
+         <h2>Register</h2>
+         <p>Please fill this form to create an account.</p>
+         <form action="register.php" method="post">
+            <p>
+               <label for="name">User Name</label>
+               <input type="text" name="user_name" id="name" class="form-control" required>
+            </p>
+            <p>
+               <label for="password">Password</label>
+               <input type="password" name="password" id="password" class="form-control" required>
+            </p>
+            <p>
+               <input type="submit" name="submit" class="btn btn-primary" value="Submit">
+            </p>
+            <p>Already have an account? <a href="login.php" style="color:white">Login here</a></p>
+         </form>
+      </center>
+   </div>
+
+</body>
+
+</html>

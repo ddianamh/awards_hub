@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="topnav" style="background-color: #5c2626; height: 10.6%; top: 0; left: 0;">
+        <a style="padding-left: 250px;">Artist's page - All singers and bands, nominated and awarded</a>
+    </div>
+    <ul style="left: 0; top: 0;">
+        <li><img src="img/Logo.png"></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="awards.html">Awards</a></li>
+        <li><a href="music.html">Music</a></li>
+        <li><a class="active" href="artists.html">Artists</a></li>
+		<li><a href="login.php">Maintanance Page</a></li>
+    </ul>
+    <h1 style="padding-top: 150px; padding-bottom: 15px; padding-left: 260px">
+		Do you wanna know more about the singers and bands from the Grammy Awards?
+	</h1>
+    <footer class="site-footer" style="background-color:#803535; padding-left: 270px;">
+		<div class="site-container">
+			<div class="footer-inner">
+				<div class="footer-info">
+					<div class="footer-info__right">
+						<h1 style="color:white; font-size: 30px; font-size: 24px;">1. Enter a numbers to see all the bands with that number of memebers! (If 1 - it will show all the singers!)</h1>
+					</div>
+				</div>
+				<div style="padding-top: 10px; padding-right: 50px;">
+					<form action="nrmembers.php" method="post">
+						<div class="contact-form__input" style="padding-right: 200px;">
+							<label type="number" name="number">Number:</label><br><br>
+							<input type="number" name="number" max="10" min="1"><br><br>
+                        </div>
+						<input type="submit" name="submit" value="Submit" class="submit-button">
+					</form>
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>

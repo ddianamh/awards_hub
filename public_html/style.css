@@ -1,0 +1,384 @@
+body {
+  text-align: center;
+  background-color: #803535;
+  color: white;
+  text-align: justify;
+  text-justify: inter-word;
+  font: Georgia;
+}
+
+/* Change the style of the main image in the hole page */
+.image img{
+  align-items: center;
+  width:700px;
+  height:400px;
+  display: block;
+  margin-left: 500px;
+  margin-right: 100px;
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+
+/* Set the display and the paddings of the quotes in the webside */
+q {
+  display: block;
+  padding-left: 200px;
+}
+
+/* Set the color, aligmnment and the size of the slogan in the webside */
+.slogan {
+color: #cbb26a;
+text-align: center;
+font-size: 30px;
+padding-left: 200px;
+}
+
+/* Change the paddings and the size of the important texts in the webside */
+.text{
+padding-left: 250px;
+padding-right: 60px;
+padding-top: 70px;
+padding-bottom: 50px;
+font-size: 25px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #5c2626;
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
+  padding-left: 150px;
+}
+
+/* Style the links inside the top navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  padding-left: 130px;
+  margin-left: 70px; 
+  padding-top: 30px;
+}
+
+.topnav{
+padding: 6px 8px 6px 16px;
+text-decoration: none;
+font-size: 20px;
+color: #818181;
+display: block;
+border: none;
+background: none;
+width: 100%;
+text-align: left;
+cursor: pointer;
+outline: none;
+}
+
+.topnav .search-container {
+float: right;
+}
+
+.topnav input[type=text] {
+padding: 10px 10px 10px 10px;
+margin-top: 28px;
+margin-right: 140px;
+font-size: 17px;
+}
+
+.topnav .search-container button {
+float: right;
+padding: 6px 20px;
+margin-top: 8px;
+margin-right: 20px;
+background-color: #d8c690;
+font-size: 17px;
+border: none;
+cursor: pointer;
+}
+
+.topnav .search-container button:hover {
+background-color:  #d8c690;
+}
+
+@media screen and (max-width: 300px) {
+.topnav .search-container {
+  float: none;
+}
+.topnav a, .topnav input[type=text], .topnav .search-container button {
+  float: none;
+  display: block;
+  text-align: left;
+  width: 50%;
+  margin: 0;
+  padding: 10px;
+}
+.topnav input[type=text] {
+  border: 1px solid #d8c690;  
+}
+}
+
+/* Add a black background color to the bottom navigation */
+.botnav {
+background-color: #5c2626;
+overflow: hidden;
+position: fixed; /* Set the navbar to fixed position */
+bottom: 0; /* Position the navbar at the top of the page */
+width: 100%;
+padding-left: 1000px;
+}
+
+/* Style the links inside the bottom navigation bar */
+.botnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* Change the color of links on hover */
+.botnav a:hover {
+  background-color: #d8c690;
+  color: white;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 13%;
+background-color: #5c2626;
+position: fixed;
+height: 100%;
+overflow: auto;
+top: 0;
+}
+
+li a {
+display: block;
+color: white;
+padding: 10px 20px;
+text-decoration: none;
+font-size: 30px;
+}
+
+li a.active {
+background-color: #cbb26a;
+color: white;
+}
+
+li a:hover:not(.active) {
+background-color: #d8c690;
+color: white;
+}
+
+li img {
+height: 100px;
+width: 200px;
+}
+
+.dropdown-btn {
+padding: 6px 8px 6px 16px;
+text-decoration: none;
+font-size: 20px;
+color: #818181;
+display: block;
+border: none;
+background: none;
+width: 100%;
+text-align: left;
+cursor: pointer;
+outline: none;
+}
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdown-container {
+display: none;
+background-color: #262626;
+padding-left: 8px;
+}
+
+.dropdown-container a{
+display: none;
+background-color: #262626;
+padding-left: 8px;
+}
+
+/* Fixed sidenav, full height */
+.sidenav {
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: #111;
+overflow-x: hidden;
+padding-top: 20px;
+}
+
+/* Style the sidenav links and the dropdown button */
+.sidenav a, .dropdown-btn {
+padding: 6px 8px 6px 16px;
+text-decoration: none;
+font-size: 20px;
+color: #818181;
+display: block;
+border: none;
+background: none;
+width: 100%;
+text-align: left;
+cursor: pointer;
+outline: none;
+}
+
+/* On mouse-over */
+.sidenav a:hover, .dropdown-btn:hover {
+color: #f1f1f1;
+}
+
+
+/* Add an active class to the active dropdown button */
+.active {
+background-color: green;
+color: white;
+}
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdown-container {
+display: none;
+background-color: #262626;
+padding-left: 8px;
+}
+
+
+/* Some media queries for responsiveness */
+@media screen and (max-height: 450px) {
+.sidenav {padding-top: 15px;}
+.sidenav a {font-size: 18px;}
+}
+
+.site-footer {
+  padding-top: 30px;
+  background-color: #343434; }
+  @media (max-width: 1250px) {
+    .site-footer {
+      padding-top: 60px; } }
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 95px; }
+  .footer-inner h5 {
+    margin-bottom: 30px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #fff; }
+  @media (max-width: 1250px) {
+    .footer-inner {
+      padding-bottom: 50px;
+      flex-direction: column;
+      align-items: center; } }
+
+.footer-info {
+  width: 50%;
+  display: flex; }
+  .footer-info .footer-info__left {
+    margin-right: 60px; }
+    .footer-info .footer-info__left img {
+      margin-bottom: 10px; }
+    .footer-info .footer-info__left p {
+      color: #c18f59; }
+    @media (max-width: 620px) {
+      .footer-info .footer-info__left {
+        margin-right: 0;
+        margin-bottom: 20px; } }
+  .footer-info .footer-info__right p {
+    margin-bottom: 15px;
+    color: #aaa; }
+  .footer-info .footer-info__right .footer-phone {
+    font-size: 14px; }
+  .footer-info .footer-info__right .social-icons {
+    margin-top: 27px; }
+    .footer-info .footer-info__right .social-icons a {
+      padding: 9px 19px; }
+  @media (max-width: 1250px) {
+    .footer-info {
+      width: 100%;
+      margin-bottom: 20px; } }
+  @media (max-width: 620px) {
+    .footer-info {
+      flex-direction: column;
+      align-items: center; } }
+
+.footer-contact-form {
+  width: 50%; }
+  .footer-contact-form .contact-form__input {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px; }
+    .footer-contact-form .contact-form__input input {
+      width: 70%;
+      padding: 20px;
+      color: #c18f59; }
+      @media (max-width: 1250px) {
+        .footer-contact-form .contact-form__input input {
+          width: 45%; } }
+      @media (max-width: 520px) {
+        .footer-contact-form .contact-form__input input {
+          width: 100%; } }
+  .footer-contact-form textarea {
+    box-sizing: border-box;
+    height: 90px;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+    resize: none; }
+  .footer-contact-form .submit-button {
+    padding: 19px 50px;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #fff;
+    background-color: #5c2626;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: 0.3s ease; }
+    .footer-contact-form .submit-button:hover {
+      background-color: #777; }
+  @media (max-width: 1250px) {
+    .footer-contact-form {
+      width: 100%; } }
+
+.footer-bottom {
+  padding: 25px 0;
+  background-color: #2d2d2d; }
+
+.footer-bottom-inner {
+  display: flex;
+  justify-content: space-between; }
+  .footer-bottom-inner p {
+    color: #777; }
+  .footer-bottom-inner a {
+    color: #c18f59;
+    text-decoration: none;
+    transition: 0.3s ease; }
+    .footer-bottom-inner a:hover {
+      color: #777; }
+  .footer-bottom-inner .footer-bottom__img img {
+    margin-right: 25px; }
+    .footer-bottom-inner .footer-bottom__img img:last-child {
+      margin-right: 0; }
+  @media (max-width: 992px) {
+    .footer-bottom-inner {
+      flex-direction: column;
+      align-items: center; }
+      .footer-bottom-inner p {
+        font-size: 14px;
+        margin-bottom: 20px; } }
+

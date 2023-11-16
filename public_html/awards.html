@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="topnav" style="background-color: #5c2626; height: 10.6%; top: 0; left: 0;">
+        <a style="padding-left: 250px;">Award's page - Grammy Awards</a>
+    </div>
+    <ul style="left: 0; top: 0;">
+        <li><img src="img/Logo.png"></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a class="active" href="awards.html">Awards</a></li>
+        <li><a href="music.html">Music</a></li>
+        <li><a href="artists.html">Artists</a></li>
+		<li><a href="login.php">Maintanance Page</a></li>
+    </ul>
+    <h1 style="padding-top: 150px; padding-bottom: 15px; padding-left: 260px">
+		Do you wanna know more about the Grammy Awards?
+	</h1>
+	<h2 style="padding-left: 260px; padding-right: 200px;">
+		Here you can search, by year, the Grammy Awards and the winners. The results will be the actual ones, offered on the official Grammy website 
+		<a href="https://www.grammy.com/" style="color: black;"> "Grammy"</a>.
+	</h2>
+    <footer class="site-footer" style="background-color:#803535; padding-left: 270px;">
+		<div class="site-container">
+			<div class="footer-inner">
+				<div class="footer-info">
+					<div class="footer-info__right">
+						<h1 style="color:white; font-size: 30px; font-size: 24px;">1. Enter a year to look for all the awards from that year!</h1>
+					</div>
+				</div>
+				<div style="padding-top: 10px; padding-right: 50px;">
+					<form action="yearaward.php" method="post">
+						<div class="contact-form__input" style="padding-right: 200px;">
+							<label type="number" name="year">Year:</label><br>
+							<input type="number" name="year"><br><br>
+                        </div>
+						<input type="submit" name="submit" value="Submit" class="submit-button">
+					</form>
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>

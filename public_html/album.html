@@ -1,0 +1,62 @@
+Change your start page? … Currently it's set to Home. You can change it at any time in Settings.
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+   <div class="topnav" style="background-color: #5c2626; height: 12%;">
+       <a style="margin-left: 70px;">Add Albums</a>
+   </div>
+   <ul style="left: 0; top: 0;">
+       <li><img src="img/Logo.png"></li>
+       <li><a href="index.html">Home</a></li>
+       <li><a href="awards.html">Awards</a></li>
+       <li><a href="music.html">Music</a></li>
+       <li><a href="artists.html">Artists</a></li>
+       <li><a href="input.html">User Input</a></li>
+   </ul>
+   <div style="padding-left: 250px; padding-top: 170px; font-size: 30px; padding-bottom: 30px; padding-right: 50px;">
+    Add an album!
+   </div>
+    <footer class="site-footer" style="background-color:#803535; padding-left: 300px;  top: 100">
+       <div class="site-container">
+           <div class="footer-inner" style="background-color:#803535; top: 100">
+               <div class="footer-info">
+                   <div class="footer-contact-form">
+                   <h5 style="color:#cbb26a; text-transform: none;">Add an album:</h5>
+                   <form class="contact-form" action="querry-album.php" method="post">
+                    <div>
+                        <label for="album_title">Album Title:</label><br>
+                        <input type="text" name="album_title" id="album_title" required><br><br>
+                        
+                        <label for="genre">Genre:</label><br>
+                        <select id="genre" name="genre">
+                            <option value="Pop">Pop</option>
+                            <option value="Rock">Rock</option>
+                            <option value="Alternative">Alternative</option>
+                            <option value="Dance/Electronic">Dance/Electronic</option>
+                            <option value="Instrumental">Instrumental</option>
+                            <option value="Rap">Rap</option>
+                            <option value="Jazz">Jazz</option>
+                            <option value="R&B/Soul">R&B/Soul</option>
+                        </select><br><br>
+                        
+                        <label for="version">Version:</label><br>
+                        <select id="version" name="version">
+                            <option value="Radio">Radio</option>
+                            <option value="Explicit">Explicit</option>
+                        </select><br><br>
+                        
+                        <label for="language">Language:</label><br>
+                        <input type="text" name="language"><br><br>
+                    </div>
+                    <input type="submit" name="submit" value="Submit" class="submit-button">
+                 </form>
+                 
+               </div>
+           </div>
+       </div>
+   </footer>
+</body>
+</html>
