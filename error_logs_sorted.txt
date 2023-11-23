@@ -1,0 +1,1208 @@
+ client 10.82.203.32:41290 Thu Nov 23 00:54:30.369631 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46661 Thu Nov 23 00:54:30.390060 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39010 Thu Nov 23 00:54:30.512976 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36659 Thu Nov 23 00:54:30.522972 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47378 Thu Nov 23 00:54:30.531422 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:42879 Thu Nov 23 00:54:30.566924 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:41559 Thu Nov 23 00:54:30.575041 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33807 Thu Nov 23 00:54:30.645630 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36153 Thu Nov 23 00:54:30.653437 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48415 Thu Nov 23 00:54:30.686977 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47220 Thu Nov 23 00:54:30.694322 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:44336 Thu Nov 23 00:54:30.702260 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:41751 Thu Nov 23 00:54:30.728283 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38971 Thu Nov 23 00:54:30.737096 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38224 Thu Nov 23 00:54:30.744693 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47720 Thu Nov 23 00:54:30.752160 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36923 Thu Nov 23 00:54:30.759751 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47376 Thu Nov 23 00:54:30.780895 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39037 Thu Nov 23 00:54:40.967928 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36954 Thu Nov 23 00:54:40.980702 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40295 Thu Nov 23 00:54:40.988568 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:44813 Thu Nov 23 00:54:41.000120 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45595 Thu Nov 23 00:54:41.010363 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46870 Thu Nov 23 00:54:41.030078 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35670 Thu Nov 23 00:54:41.039169 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38492 Thu Nov 23 00:54:41.047346 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:41026 Thu Nov 23 00:54:41.055552 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39478 Thu Nov 23 00:54:41.065495 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40448 Thu Nov 23 00:54:41.077884 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35428 Thu Nov 23 00:54:41.086507 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35925 Thu Nov 23 00:54:41.095548 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47623 Thu Nov 23 00:54:41.104376 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34362 Thu Nov 23 00:54:41.136642 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46623 Thu Nov 23 00:54:41.148741 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43806 Thu Nov 23 00:54:41.155808 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43092 Thu Nov 23 00:54:41.163594 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36721 Thu Nov 23 00:54:41.174048 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36354 Thu Nov 23 00:54:41.189957 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:44607 Thu Nov 23 00:54:41.287878 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43032 Thu Nov 23 00:54:41.296985 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46396 Thu Nov 23 00:54:41.308201 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38999 Thu Nov 23 00:54:41.337625 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39035 Thu Nov 23 00:54:41.348643 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36159 Thu Nov 23 00:54:41.358385 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45427 Thu Nov 23 00:54:41.366868 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47477 Thu Nov 23 00:54:41.380264 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47706 Thu Nov 23 00:54:41.391724 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:44566 Thu Nov 23 00:54:41.404479 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37662 Thu Nov 23 00:54:41.412604 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47626 Thu Nov 23 00:54:41.421327 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37194 Thu Nov 23 00:54:41.430005 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37962 Thu Nov 23 00:54:41.438420 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40556 Thu Nov 23 00:54:41.445652 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48433 Thu Nov 23 00:54:41.505653 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:48433 Thu Nov 23 00:54:41.505674 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39701 Thu Nov 23 00:54:41.513448 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37219 Thu Nov 23 00:54:41.552171 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45878 Thu Nov 23 00:54:41.559997 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36669 Thu Nov 23 00:54:41.639751 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:36669 Thu Nov 23 00:54:41.639783 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35948 Thu Nov 23 00:54:41.655070 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46903 Thu Nov 23 00:54:41.665063 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37195 Thu Nov 23 00:54:41.680504 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37947 Thu Nov 23 00:54:41.706552 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:37947 Thu Nov 23 00:54:41.706572 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45371 Thu Nov 23 00:54:41.720513 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36651 Thu Nov 23 00:54:41.728668 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38431 Thu Nov 23 00:54:41.736004 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45847 Thu Nov 23 00:54:41.852790 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:45847 Thu Nov 23 00:54:41.852813 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:44347 Thu Nov 23 00:54:41.862916 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:44354 Thu Nov 23 00:54:41.871709 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40570 Thu Nov 23 00:54:41.880118 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45142 Thu Nov 23 00:54:41.912913 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:45142 Thu Nov 23 00:54:41.912935 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48968 Thu Nov 23 00:54:41.921147 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48944 Thu Nov 23 00:54:41.932834 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37654 Thu Nov 23 00:54:41.951110 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47917 Thu Nov 23 00:54:41.960643 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:47917 Thu Nov 23 00:54:41.960663 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43892 Thu Nov 23 00:54:41.970838 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40551 Thu Nov 23 00:54:41.979745 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37755 Thu Nov 23 00:54:41.987108 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38225 Thu Nov 23 00:54:42.009014 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:38225 Thu Nov 23 00:54:42.009037 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33099 Thu Nov 23 00:54:42.018117 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48221 Thu Nov 23 00:54:42.028316 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36967 Thu Nov 23 00:54:42.039748 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46177 Thu Nov 23 00:54:42.097718 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:46177 Thu Nov 23 00:54:42.097740 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33536 Thu Nov 23 00:54:42.110859 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39261 Thu Nov 23 00:54:42.119200 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39241 Thu Nov 23 00:54:42.128214 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35686 Thu Nov 23 00:54:42.152312 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:35686 Thu Nov 23 00:54:42.152334 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48976 Thu Nov 23 00:54:42.162281 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:42310 Thu Nov 23 00:54:42.172071 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46635 Thu Nov 23 00:54:42.180111 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34883 Thu Nov 23 00:54:42.220121 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:34883 Thu Nov 23 00:54:42.220142 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36214 Thu Nov 23 00:54:42.229700 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33838 Thu Nov 23 00:54:42.249193 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33064 Thu Nov 23 00:54:42.258803 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37985 Thu Nov 23 00:54:42.275637 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:37985 Thu Nov 23 00:54:42.275657 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37496 Thu Nov 23 00:54:42.288997 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39230 Thu Nov 23 00:54:42.304699 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43355 Thu Nov 23 00:54:42.312523 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40802 Thu Nov 23 00:54:42.364302 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:40802 Thu Nov 23 00:54:42.364331 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37132 Thu Nov 23 00:54:42.373324 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45850 Thu Nov 23 00:54:42.383634 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33917 Thu Nov 23 00:54:42.392265 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40261 Thu Nov 23 00:54:42.427596 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:40261 Thu Nov 23 00:54:42.427620 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38467 Thu Nov 23 00:54:42.472733 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33306 Thu Nov 23 00:54:42.481275 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48934 Thu Nov 23 00:54:42.492756 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48926 Thu Nov 23 00:54:42.514623 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:48926 Thu Nov 23 00:54:42.514643 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37401 Thu Nov 23 00:54:42.523242 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39539 Thu Nov 23 00:54:42.531582 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37452 Thu Nov 23 00:54:42.545434 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:41819 Thu Nov 23 00:54:42.574532 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:41819 Thu Nov 23 00:54:42.574553 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:42320 Thu Nov 23 00:54:42.582667 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46600 Thu Nov 23 00:54:42.594366 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:44402 Thu Nov 23 00:54:42.603141 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45348 Thu Nov 23 00:54:42.612622 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:45348 Thu Nov 23 00:54:42.612643 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:36373 Thu Nov 23 00:54:42.624206 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:39720 Thu Nov 23 00:54:42.636380 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34828 Thu Nov 23 00:54:42.645440 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34333 Thu Nov 23 00:54:42.653318 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:34333 Thu Nov 23 00:54:42.653348 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43347 Thu Nov 23 00:54:42.663269 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40296 Thu Nov 23 00:54:42.677200 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:42555 Thu Nov 23 00:54:42.685928 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38015 Thu Nov 23 00:54:42.759254 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:38015 Thu Nov 23 00:54:42.759277 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37934 Thu Nov 23 00:54:42.768081 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43328 Thu Nov 23 00:54:42.777795 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46691 Thu Nov 23 00:54:42.786840 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37932 Thu Nov 23 00:54:42.799246 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:37932 Thu Nov 23 00:54:42.799266 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40044 Thu Nov 23 00:54:42.807389 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34591 Thu Nov 23 00:54:42.816208 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37991 Thu Nov 23 00:54:42.824122 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33121 Thu Nov 23 00:54:42.842937 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:33121 Thu Nov 23 00:54:42.842958 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35933 Thu Nov 23 00:54:42.852048 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35112 Thu Nov 23 00:54:42.869928 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37142 Thu Nov 23 00:54:42.877691 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40965 Thu Nov 23 00:54:42.921129 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:40965 Thu Nov 23 00:54:42.921152 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:42814 Thu Nov 23 00:54:42.930003 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34627 Thu Nov 23 00:54:42.938103 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37193 Thu Nov 23 00:54:42.946098 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34365 Thu Nov 23 00:54:42.963532 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:34365 Thu Nov 23 00:54:42.963553 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40819 Thu Nov 23 00:54:42.973731 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34101 Thu Nov 23 00:54:42.983171 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48709 Thu Nov 23 00:54:42.992337 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34152 Thu Nov 23 00:54:43.032499 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:34152 Thu Nov 23 00:54:43.032525 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33386 Thu Nov 23 00:54:43.042130 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35147 Thu Nov 23 00:54:43.068609 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33554 Thu Nov 23 00:54:43.076888 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34077 Thu Nov 23 00:54:43.094744 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:34077 Thu Nov 23 00:54:43.094766 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43353 Thu Nov 23 00:54:43.104472 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:34600 Thu Nov 23 00:54:43.113536 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40297 Thu Nov 23 00:54:43.122353 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43356 Thu Nov 23 00:54:43.155227 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:43356 Thu Nov 23 00:54:43.155248 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:42591 Thu Nov 23 00:54:43.167869 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:38709 Thu Nov 23 00:54:43.179918 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:37907 Thu Nov 23 00:54:43.187964 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46110 Thu Nov 23 00:54:43.205001 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:46110 Thu Nov 23 00:54:43.205021 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:46907 Thu Nov 23 00:54:43.213832 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33836 Thu Nov 23 00:54:43.222074 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:42036 Thu Nov 23 00:54:43.230750 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:47916 Thu Nov 23 00:54:43.247269 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:47916 Thu Nov 23 00:54:43.247289 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:48695 Thu Nov 23 00:54:43.255608 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43061 Thu Nov 23 00:54:43.264707 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:40192 Thu Nov 23 00:54:43.273902 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:35452 Thu Nov 23 00:54:43.307120 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/SeeIfWS.php on line 65
+
+ client 10.82.203.32:35452 Thu Nov 23 00:54:43.307141 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33350 Thu Nov 23 00:54:43.316371 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:45911 Thu Nov 23 00:54:43.324777 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:43827 Thu Nov 23 00:54:43.332747 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/SeeIfWS.php on line 77
+
+ client 10.82.203.32:33651 Thu Nov 23 00:54:44.165777 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40196 Thu Nov 23 00:54:44.187590 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47738 Thu Nov 23 00:54:44.354272 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35158 Thu Nov 23 00:54:44.363807 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39718 Thu Nov 23 00:54:44.372932 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33286 Thu Nov 23 00:54:44.444536 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42858 Thu Nov 23 00:54:44.452883 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45319 Thu Nov 23 00:54:44.529009 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45408 Thu Nov 23 00:54:44.536666 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:38991 Thu Nov 23 00:54:44.579993 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45689 Thu Nov 23 00:54:44.630075 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39197 Thu Nov 23 00:54:44.637703 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:43631 Thu Nov 23 00:54:44.660755 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42759 Thu Nov 23 00:54:44.668075 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36479 Thu Nov 23 00:54:44.676160 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:43349 Thu Nov 23 00:54:44.683826 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37716 Thu Nov 23 00:54:44.693159 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47687 Thu Nov 23 00:54:44.702206 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:38183 Thu Nov 23 00:54:54.953764 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37901 Thu Nov 23 00:54:54.963793 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35079 Thu Nov 23 00:54:54.970616 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44562 Thu Nov 23 00:54:54.977512 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47658 Thu Nov 23 00:54:54.985512 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46654 Thu Nov 23 00:54:55.004513 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:48742 Thu Nov 23 00:54:55.013436 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36628 Thu Nov 23 00:54:55.021461 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44569 Thu Nov 23 00:54:55.030089 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36445 Thu Nov 23 00:54:55.077096 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35191 Thu Nov 23 00:54:55.085071 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42499 Thu Nov 23 00:54:55.092643 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44327 Thu Nov 23 00:54:55.100566 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40002 Thu Nov 23 00:54:55.108633 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41740 Thu Nov 23 00:54:55.116550 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44858 Thu Nov 23 00:54:55.125653 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39023 Thu Nov 23 00:54:55.134643 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40531 Thu Nov 23 00:54:55.143360 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45336 Thu Nov 23 00:54:55.155196 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47946 Thu Nov 23 00:54:55.175278 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33068 Thu Nov 23 00:54:55.269489 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33289 Thu Nov 23 00:54:55.277254 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44659 Thu Nov 23 00:54:55.285151 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46707 Thu Nov 23 00:54:55.293538 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37718 Thu Nov 23 00:54:55.303039 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46116 Thu Nov 23 00:54:55.310858 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:48431 Thu Nov 23 00:54:55.318699 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40498 Thu Nov 23 00:54:55.327712 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42364 Thu Nov 23 00:54:55.335819 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36684 Thu Nov 23 00:54:55.376750 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40712 Thu Nov 23 00:54:55.384857 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41987 Thu Nov 23 00:54:55.392755 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35951 Thu Nov 23 00:54:55.402792 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41512 Thu Nov 23 00:54:55.411171 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37398 Thu Nov 23 00:54:55.420849 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46670 Thu Nov 23 00:54:55.511062 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:46670 Thu Nov 23 00:54:55.511086 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44808 Thu Nov 23 00:54:55.519162 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39680 Thu Nov 23 00:54:55.527220 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33080 Thu Nov 23 00:54:55.535590 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47957 Thu Nov 23 00:54:55.602443 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:47957 Thu Nov 23 00:54:55.602465 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45096 Thu Nov 23 00:54:55.610911 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45607 Thu Nov 23 00:54:55.618820 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39510 Thu Nov 23 00:54:55.626712 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45939 Thu Nov 23 00:54:55.644177 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:45939 Thu Nov 23 00:54:55.644198 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37126 Thu Nov 23 00:54:55.696027 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44367 Thu Nov 23 00:54:55.706007 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44335 Thu Nov 23 00:54:55.714788 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37952 Thu Nov 23 00:54:55.823311 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:37952 Thu Nov 23 00:54:55.823333 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35937 Thu Nov 23 00:54:55.832219 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34414 Thu Nov 23 00:54:55.840528 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:48227 Thu Nov 23 00:54:55.849466 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:43566 Thu Nov 23 00:54:55.894710 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:43566 Thu Nov 23 00:54:55.894742 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33033 Thu Nov 23 00:54:55.903931 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35906 Thu Nov 23 00:54:55.913122 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41336 Thu Nov 23 00:54:55.921038 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:38977 Thu Nov 23 00:54:55.930121 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:38977 Thu Nov 23 00:54:55.930142 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42341 Thu Nov 23 00:54:55.939942 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36986 Thu Nov 23 00:54:55.950264 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47111 Thu Nov 23 00:54:55.999724 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47140 Thu Nov 23 00:54:56.015997 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:47140 Thu Nov 23 00:54:56.016019 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33654 Thu Nov 23 00:54:56.034112 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47412 Thu Nov 23 00:54:56.047319 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39291 Thu Nov 23 00:54:56.081968 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35666 Thu Nov 23 00:54:56.141729 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:35666 Thu Nov 23 00:54:56.141751 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37661 Thu Nov 23 00:54:56.150948 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44833 Thu Nov 23 00:54:56.159705 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36962 Thu Nov 23 00:54:56.167481 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42794 Thu Nov 23 00:54:56.176778 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:42794 Thu Nov 23 00:54:56.176799 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46416 Thu Nov 23 00:54:56.185589 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37646 Thu Nov 23 00:54:56.194161 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36648 Thu Nov 23 00:54:56.202363 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:48734 Thu Nov 23 00:54:56.228908 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:48734 Thu Nov 23 00:54:56.228927 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35449 Thu Nov 23 00:54:56.237768 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47694 Thu Nov 23 00:54:56.247916 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40304 Thu Nov 23 00:54:56.255781 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46118 Thu Nov 23 00:54:56.298396 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:46118 Thu Nov 23 00:54:56.298416 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33050 Thu Nov 23 00:54:56.306477 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:48730 Thu Nov 23 00:54:56.314591 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45604 Thu Nov 23 00:54:56.324323 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39492 Thu Nov 23 00:54:56.362678 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:39492 Thu Nov 23 00:54:56.362699 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45410 Thu Nov 23 00:54:56.389210 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33601 Thu Nov 23 00:54:56.398418 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34105 Thu Nov 23 00:54:56.406576 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44082 Thu Nov 23 00:54:56.432637 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:44082 Thu Nov 23 00:54:56.432658 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47173 Thu Nov 23 00:54:56.441621 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33089 Thu Nov 23 00:54:56.450486 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:44390 Thu Nov 23 00:54:56.459835 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34941 Thu Nov 23 00:54:56.481234 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:34941 Thu Nov 23 00:54:56.481255 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34125 Thu Nov 23 00:54:56.488395 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:38962 Thu Nov 23 00:54:56.496995 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36396 Thu Nov 23 00:54:56.505024 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36219 Thu Nov 23 00:54:56.514701 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:36219 Thu Nov 23 00:54:56.514724 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:48147 Thu Nov 23 00:54:56.524240 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:38726 Thu Nov 23 00:54:56.535332 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34100 Thu Nov 23 00:54:56.547693 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34311 Thu Nov 23 00:54:56.556253 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:34311 Thu Nov 23 00:54:56.556275 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45110 Thu Nov 23 00:54:56.564771 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41737 Thu Nov 23 00:54:56.749210 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45090 Thu Nov 23 00:54:56.758398 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40561 Thu Nov 23 00:54:56.767396 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:40561 Thu Nov 23 00:54:56.767417 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34655 Thu Nov 23 00:54:56.777830 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47363 Thu Nov 23 00:54:56.788625 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41248 Thu Nov 23 00:54:56.796113 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:43127 Thu Nov 23 00:54:56.848186 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:43127 Thu Nov 23 00:54:56.848240 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34354 Thu Nov 23 00:54:56.857928 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33065 Thu Nov 23 00:54:56.868104 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39274 Thu Nov 23 00:54:56.905648 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:43372 Thu Nov 23 00:54:56.918681 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:43372 Thu Nov 23 00:54:56.918702 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41551 Thu Nov 23 00:54:56.928339 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39021 Thu Nov 23 00:54:56.939810 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:48947 Thu Nov 23 00:54:56.948099 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42513 Thu Nov 23 00:54:56.966304 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:42513 Thu Nov 23 00:54:56.966325 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:38215 Thu Nov 23 00:54:56.974477 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42339 Thu Nov 23 00:54:56.983890 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40986 Thu Nov 23 00:54:57.006863 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46383 Thu Nov 23 00:54:57.051537 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:46383 Thu Nov 23 00:54:57.051563 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42333 Thu Nov 23 00:54:57.058860 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37490 Thu Nov 23 00:54:57.066012 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37896 Thu Nov 23 00:54:57.075085 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46612 Thu Nov 23 00:54:57.105823 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:46612 Thu Nov 23 00:54:57.105843 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:38984 Thu Nov 23 00:54:57.114805 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47112 Thu Nov 23 00:54:57.122973 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35109 Thu Nov 23 00:54:57.131210 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36872 Thu Nov 23 00:54:57.172729 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:36872 Thu Nov 23 00:54:57.172753 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:37453 Thu Nov 23 00:54:57.217918 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33568 Thu Nov 23 00:54:57.226157 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34619 Thu Nov 23 00:54:57.234895 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:39520 Thu Nov 23 00:54:57.253119 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:39520 Thu Nov 23 00:54:57.253141 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41545 Thu Nov 23 00:54:57.262086 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33657 Thu Nov 23 00:54:57.270345 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:41231 Thu Nov 23 00:54:57.278360 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45330 Thu Nov 23 00:54:57.333190 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:45330 Thu Nov 23 00:54:57.333215 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33114 Thu Nov 23 00:54:57.343665 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:47193 Thu Nov 23 00:54:57.352057 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40013 Thu Nov 23 00:54:57.359701 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42253 Thu Nov 23 00:54:57.376798 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:42253 Thu Nov 23 00:54:57.376819 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:43814 Thu Nov 23 00:54:57.384834 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33803 Thu Nov 23 00:54:57.397250 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:48712 Thu Nov 23 00:54:57.405087 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:36645 Thu Nov 23 00:54:57.423082 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:36645 Thu Nov 23 00:54:57.423103 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:40966 Thu Nov 23 00:54:57.431968 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:42357 Thu Nov 23 00:54:57.439685 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:38474 Thu Nov 23 00:54:57.447338 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:33794 Thu Nov 23 00:54:57.484806 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/songgenre.php on line 61
+
+ client 10.82.203.32:33794 Thu Nov 23 00:54:57.484838 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:35681 Thu Nov 23 00:54:57.524978 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:46871 Thu Nov 23 00:54:57.533463 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:34092 Thu Nov 23 00:54:57.541537 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/songgenre.php on line 72
+
+ client 10.82.203.32:45144 Thu Nov 23 00:54:58.355451 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:40503 Thu Nov 23 00:54:58.374209 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43066 Thu Nov 23 00:54:58.522647 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45326 Thu Nov 23 00:54:58.549874 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41755 Thu Nov 23 00:54:58.566494 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:34858 Thu Nov 23 00:54:58.573598 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41084 Thu Nov 23 00:54:58.581541 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47992 Thu Nov 23 00:54:58.589755 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:40253 Thu Nov 23 00:54:58.599160 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39981 Thu Nov 23 00:54:58.608483 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35916 Thu Nov 23 00:54:58.617172 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46719 Thu Nov 23 00:54:58.624857 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:44370 Thu Nov 23 00:54:58.632908 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47393 Thu Nov 23 00:54:58.640369 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38951 Thu Nov 23 00:54:58.648046 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41315 Thu Nov 23 00:54:58.655951 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37456 Thu Nov 23 00:54:58.664218 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37942 Thu Nov 23 00:54:58.672666 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35353 Thu Nov 23 00:54:58.681425 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43835 Thu Nov 23 00:54:58.689625 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37983 Thu Nov 23 00:54:58.697389 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46914 Thu Nov 23 00:54:58.747609 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:48948 Thu Nov 23 00:54:58.757024 2023  php7:warn  PHP Warning:  mysqli::query(): (22003/1690): BIGINT value is out of range in '2 * if((select #\\0003),8446744073709551610,8446744073709551610)' in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:48948 Thu Nov 23 00:54:58.757046 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36393 Thu Nov 23 00:54:58.766147 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47618 Thu Nov 23 00:54:58.775072 2023  php7:warn  PHP Warning:  mysqli::query(): (22003/1690): DOUBLE value is out of range in 'exp(~(select #\\0002))' in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:47618 Thu Nov 23 00:54:58.775092 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39950 Thu Nov 23 00:54:58.783860 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38748 Thu Nov 23 00:54:58.793741 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46443 Thu Nov 23 00:54:58.824275 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:44838 Thu Nov 23 00:54:58.847502 2023  php7:warn  PHP Warning:  mysqli::query(): (23000/1062): Duplicate entry 'qkvjq1qqvbq1' for key 'group_key' in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:44838 Thu Nov 23 00:54:58.847523 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42005 Thu Nov 23 00:54:58.856141 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46661 Thu Nov 23 00:54:58.864401 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36686 Thu Nov 23 00:54:58.872668 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36632 Thu Nov 23 00:54:58.881133 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36152 Thu Nov 23 00:54:58.890055 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42033 Thu Nov 23 00:54:58.899098 2023  php7:warn  PHP Warning:  mysqli::query(): (23000/1062): Duplicate entry 'qkvjq1qqvbq1' for key 'group_key' in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:42033 Thu Nov 23 00:54:58.899118 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46609 Thu Nov 23 00:54:58.919688 2023  php7:warn  PHP Warning:  mysqli::query(): (23000/1062): Duplicate entry 'qkvjq1qqvbq1' for key 'group_key' in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:46609 Thu Nov 23 00:54:58.919708 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39717 Thu Nov 23 00:54:58.928119 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41817 Thu Nov 23 00:54:58.943931 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41738 Thu Nov 23 00:54:58.952718 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41843 Thu Nov 23 00:54:58.965002 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:32862 Thu Nov 23 00:54:58.983924 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:48191 Thu Nov 23 00:54:58.991539 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39742 Thu Nov 23 00:54:59.001322 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41759 Thu Nov 23 00:54:59.010098 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35436 Thu Nov 23 00:54:59.019523 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38423 Thu Nov 23 00:54:59.060651 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42290 Thu Nov 23 00:54:59.072272 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45133 Thu Nov 23 00:54:59.081349 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47727 Thu Nov 23 00:54:59.089967 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41823 Thu Nov 23 00:55:09.155688 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43812 Thu Nov 23 00:55:09.189321 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:48751 Thu Nov 23 00:55:09.198591 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35404 Thu Nov 23 00:55:09.335566 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:33370 Thu Nov 23 00:55:09.347509 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36167 Thu Nov 23 00:55:09.355819 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:33290 Thu Nov 23 00:55:09.364286 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:40546 Thu Nov 23 00:55:09.372756 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37421 Thu Nov 23 00:55:09.382573 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:34930 Thu Nov 23 00:55:09.391682 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45095 Thu Nov 23 00:55:09.400633 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:44829 Thu Nov 23 00:55:09.409271 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:34307 Thu Nov 23 00:55:09.419299 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45149 Thu Nov 23 00:55:09.428848 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:44398 Thu Nov 23 00:55:09.436547 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:33084 Thu Nov 23 00:55:09.444947 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:48475 Thu Nov 23 00:55:09.457924 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45829 Thu Nov 23 00:55:09.466714 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:48648 Thu Nov 23 00:55:09.505401 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47165 Thu Nov 23 00:55:09.513371 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43888 Thu Nov 23 00:55:09.524892 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47677 Thu Nov 23 00:55:09.539218 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36355 Thu Nov 23 00:55:09.546950 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37477 Thu Nov 23 00:55:09.558735 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43334 Thu Nov 23 00:55:09.623427 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:43334 Thu Nov 23 00:55:09.623449 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:32845 Thu Nov 23 00:55:09.632384 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35692 Thu Nov 23 00:55:09.642416 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39760 Thu Nov 23 00:55:09.651687 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42781 Thu Nov 23 00:55:09.726904 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:42781 Thu Nov 23 00:55:09.726925 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36376 Thu Nov 23 00:55:09.734772 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39778 Thu Nov 23 00:55:09.742444 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38967 Thu Nov 23 00:55:09.751107 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45832 Thu Nov 23 00:55:09.771485 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:45832 Thu Nov 23 00:55:09.771507 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45107 Thu Nov 23 00:55:09.805444 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39184 Thu Nov 23 00:55:09.814806 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46899 Thu Nov 23 00:55:09.823786 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45164 Thu Nov 23 00:55:09.934663 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:45164 Thu Nov 23 00:55:09.934687 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45641 Thu Nov 23 00:55:09.947150 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45323 Thu Nov 23 00:55:09.955357 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:48680 Thu Nov 23 00:55:09.963130 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:34421 Thu Nov 23 00:55:09.993587 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:34421 Thu Nov 23 00:55:09.993607 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:32869 Thu Nov 23 00:55:10.002604 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37383 Thu Nov 23 00:55:10.017883 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45392 Thu Nov 23 00:55:10.025429 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39982 Thu Nov 23 00:55:10.035145 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:39982 Thu Nov 23 00:55:10.035168 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36932 Thu Nov 23 00:55:10.044781 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:33047 Thu Nov 23 00:55:10.054672 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45084 Thu Nov 23 00:55:10.063544 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37182 Thu Nov 23 00:55:10.220816 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:37182 Thu Nov 23 00:55:10.220841 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39800 Thu Nov 23 00:55:10.231138 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38689 Thu Nov 23 00:55:10.240231 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41247 Thu Nov 23 00:55:10.249063 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41591 Thu Nov 23 00:55:10.304821 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:41591 Thu Nov 23 00:55:10.304842 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46975 Thu Nov 23 00:55:10.313755 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39773 Thu Nov 23 00:55:10.323399 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39018 Thu Nov 23 00:55:10.333369 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36201 Thu Nov 23 00:55:10.344359 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:36201 Thu Nov 23 00:55:10.344381 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36653 Thu Nov 23 00:55:10.352497 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41751 Thu Nov 23 00:55:10.360971 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38180 Thu Nov 23 00:55:10.370988 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:33045 Thu Nov 23 00:55:10.537251 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:33045 Thu Nov 23 00:55:10.537275 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:40738 Thu Nov 23 00:55:10.548594 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41244 Thu Nov 23 00:55:10.557227 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37156 Thu Nov 23 00:55:10.564749 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47683 Thu Nov 23 00:55:10.588980 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:47683 Thu Nov 23 00:55:10.589001 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39945 Thu Nov 23 00:55:10.609646 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37959 Thu Nov 23 00:55:10.617507 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46663 Thu Nov 23 00:55:10.626189 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43375 Thu Nov 23 00:55:10.672456 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:43375 Thu Nov 23 00:55:10.672476 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35608 Thu Nov 23 00:55:10.680933 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41273 Thu Nov 23 00:55:10.689768 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:33317 Thu Nov 23 00:55:10.826691 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35663 Thu Nov 23 00:55:10.862005 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:35663 Thu Nov 23 00:55:10.862027 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37382 Thu Nov 23 00:55:10.869020 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43073 Thu Nov 23 00:55:10.877987 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:34923 Thu Nov 23 00:55:10.886479 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42015 Thu Nov 23 00:55:10.905081 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:42015 Thu Nov 23 00:55:10.905103 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38758 Thu Nov 23 00:55:10.916739 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47188 Thu Nov 23 00:55:10.925739 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:44862 Thu Nov 23 00:55:10.933817 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:34316 Thu Nov 23 00:55:10.942753 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:34316 Thu Nov 23 00:55:10.942773 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36897 Thu Nov 23 00:55:10.951680 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42016 Thu Nov 23 00:55:10.964382 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37912 Thu Nov 23 00:55:10.973857 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45116 Thu Nov 23 00:55:10.982618 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:45116 Thu Nov 23 00:55:10.982644 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47651 Thu Nov 23 00:55:10.992801 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:40301 Thu Nov 23 00:55:11.000209 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42043 Thu Nov 23 00:55:12.155444 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:34315 Thu Nov 23 00:55:12.165787 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:34315 Thu Nov 23 00:55:12.165823 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36634 Thu Nov 23 00:55:12.173958 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42020 Thu Nov 23 00:55:12.183603 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45423 Thu Nov 23 00:55:12.193611 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36713 Thu Nov 23 00:55:12.284970 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:36713 Thu Nov 23 00:55:12.284993 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38412 Thu Nov 23 00:55:12.292814 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37484 Thu Nov 23 00:55:12.300963 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36180 Thu Nov 23 00:55:12.308676 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35646 Thu Nov 23 00:55:12.316830 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:35646 Thu Nov 23 00:55:12.316851 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41994 Thu Nov 23 00:55:12.324798 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39283 Thu Nov 23 00:55:12.336296 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47364 Thu Nov 23 00:55:12.363209 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:39435 Thu Nov 23 00:55:12.390520 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:39435 Thu Nov 23 00:55:12.390541 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38226 Thu Nov 23 00:55:12.401794 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35151 Thu Nov 23 00:55:12.410312 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37439 Thu Nov 23 00:55:12.419520 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:38171 Thu Nov 23 00:55:12.468070 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:38171 Thu Nov 23 00:55:12.468102 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36688 Thu Nov 23 00:55:12.476946 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36887 Thu Nov 23 00:55:12.485620 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:35869 Thu Nov 23 00:55:12.498187 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46152 Thu Nov 23 00:55:12.520960 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:46152 Thu Nov 23 00:55:12.520983 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:44598 Thu Nov 23 00:55:12.529207 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:45424 Thu Nov 23 00:55:12.537300 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42539 Thu Nov 23 00:55:12.582249 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46880 Thu Nov 23 00:55:12.633366 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:46880 Thu Nov 23 00:55:12.633389 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:32799 Thu Nov 23 00:55:12.644098 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:44129 Thu Nov 23 00:55:12.659152 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:37634 Thu Nov 23 00:55:12.672958 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46163 Thu Nov 23 00:55:12.705626 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:46163 Thu Nov 23 00:55:12.705647 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:47136 Thu Nov 23 00:55:12.714973 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:40299 Thu Nov 23 00:55:12.722928 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41246 Thu Nov 23 00:55:12.730893 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46167 Thu Nov 23 00:55:12.770956 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:46167 Thu Nov 23 00:55:12.770988 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43537 Thu Nov 23 00:55:12.783726 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:40995 Thu Nov 23 00:55:12.792878 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46164 Thu Nov 23 00:55:12.804788 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:41241 Thu Nov 23 00:55:12.839318 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:41241 Thu Nov 23 00:55:12.839340 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:44339 Thu Nov 23 00:55:13.074934 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36907 Thu Nov 23 00:55:13.084468 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:46684 Thu Nov 23 00:55:13.093273 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:32858 Thu Nov 23 00:55:13.116445 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:32858 Thu Nov 23 00:55:13.116467 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:34339 Thu Nov 23 00:55:13.125227 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:33544 Thu Nov 23 00:55:13.134036 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43274 Thu Nov 23 00:55:13.142946 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:32769 Thu Nov 23 00:55:13.210343 2023  php7:warn  PHP Warning:  mysqli::query(): (42000/1227): Access denied; you need (at least one of) the PROCESS privilege(s) for this operation in /people/home/mborsos/public_html/albumgenre.php on line 61
+
+ client 10.82.203.32:32769 Thu Nov 23 00:55:13.210365 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:43067 Thu Nov 23 00:55:13.218497 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:36908 Thu Nov 23 00:55:13.227388 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
+ client 10.82.203.32:42017 Thu Nov 23 00:55:13.239111 2023  php7:notice  PHP Notice:  Trying to get property 'num_rows' of non-object in /people/home/mborsos/public_html/albumgenre.php on line 72
+
