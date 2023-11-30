@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>autocomplete demo</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+<body>
+ 
+<label for="autocomplete">Search: </label>
+<input id="autocomplete">
+ 
+<script>
+$(document).ready(function() {
+    // Initialize the variable
+    var tags;
+
+    // Make an AJAX request to the server
+    $.ajax({
+        url: 'server-script.php', // Change this to the actual path of your server script
+        type: 'GET',
+        dataType: 'json', // Change the dataType based on your server's response type
+
+        success: function(response) {
+            // Assuming the server responds with JSON data
+            tags = response.tags;
+
+            // Now you can use the 'tags' variable as needed
+            console.log(tags);
+        },
+
+        error: function(error) {
+            console.error('Error fetching server content:', error);
+        }
+    });
+
+    // Note: The code here will continue to execute while the AJAX request is in progress.
+    // If you need to perform actions after the server response, move them into the 'success' callback.
+});s
+</script>
+ 
+</body>
+</html>
